@@ -1,10 +1,14 @@
 // Array de heróis com nome e XP
 const heroisMortalKombat = [
-    { nome: "Liu Kang", xp: 7500 },
-    { nome: "Raiden", xp: 12000 },
-    { nome: "Kronika", xp: 4500 },
-    { nome: "Um Ser", xp: 9500 },
-    { nome: "Shang Tsung", xp: 300 },
+    { nome: "Liu Kang", xp: 10000 },
+    { nome: "Raiden", xp: 15000 },
+    { nome: "Kronika", xp: 7300 },
+    { nome: "Um Ser", xp: 8800 },
+    { nome: "Shang Tsung", xp: 750 },
+    {nome: "Shao Kahn", xp:3680 },
+    {nome: "Shinnok", xp:1009},
+    {nome: "Centrion", xp: 6300},
+
 ];
 
 // Função para classificar o nível do herói com base em sua XP
